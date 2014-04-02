@@ -1,6 +1,5 @@
 
 CC=$(CXX)
-CC=clang++
 
 CFLAGS=-c -Wall
 
