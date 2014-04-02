@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+# vim files
+*.swp
+*.swo
+
+src/test
